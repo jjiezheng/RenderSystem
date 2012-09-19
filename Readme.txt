@@ -1,0 +1,1 @@
+attempt at abstracting a simplified rendering system. forgot where i was in this ><

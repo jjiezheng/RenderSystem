@@ -1,0 +1,15 @@
+*.filters
+*.users
+*.user
+*.dll
+*.lib
+*.suo
+*.vcxproj
+*.sdf
+*.sln
+bin/
+Bin/
+debug/
+Debug/
+obj/
+Obj/
